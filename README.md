@@ -8,3 +8,4 @@ to compile:
 
 g++ greifarm.cpp servo.cpp ssd1306_i2c.c -lwiringPi -o greifarm
 
+im Betrieb zu sehen: https://youtu.be/uF3ohl5f_Co
