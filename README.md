@@ -1,8 +1,11 @@
 # Raspi-Greifarm
 # Project 3rd Semester (Sose 2018) Computer Eng. HTW Berlin
-  Legostein Sortierroboter , 5 Farbe
-  Adafruit Servo Hat mit PWM Mikrokontroller PCA9685 (Library by https://github.com/TeraHz/PCA9685), 4 Servommotoren, ein       ein Oled display (Library by https://github.com/iliapenev/ssd1306_i2c), Farbsensor TCS3200 
-Funktionen von Max Ruhnau (https://github.com/MaxArne/). Code Implementierung und Zusammenbauen von Giovanni Rodriguez Gutierrez.
+  
+  * Legostein Sortierroboter , 5 Farbe
+  * Adafruit Servo Hat mit PWM Mikrokontroller PCA9685 (Library by https://github.com/TeraHz/PCA9685), 
+  * 4 Servommotoren, ein Oled display (Library by https://github.com/iliapenev/ssd1306_i2c), 
+  * Farbsensor TCS3200 Funktionen von Max Ruhnau (https://github.com/MaxArne/). 
+  * Code Implementierung und Zusammenbauen von Giovanni Rodriguez Gutierrez.
 
 to compile:
 
